@@ -9,7 +9,13 @@
 ![基础模型](/imgs/base-model/base-model.png)
 
 基础模型层级主要分为四层：
-- 应用
-- 视图
-- 部件
-- 部件成员
+- App (应用) 
+- View (视图)
+- Control (部件)
+- Item (部件成员或者编辑器)
+
+<blockquote style="border-color: #2892ec;background-color: #f0faff;">
+    <p>
+        注：Item 介绍中，本文介绍编辑器。
+    </p>
+</blockquote>
